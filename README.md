@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my repository,
 <br>
-Author-shambhu devkate
+Author-shambhu (student)
